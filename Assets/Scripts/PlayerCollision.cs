@@ -29,6 +29,11 @@ public class PlayerCollision : MonoBehaviour
         {
             SceneManager.LoadScene("SampleScene");
         }
-        Debug.Log(collision.gameObject);
+        if (collision.gameObject.name == "La_Meta")
+        {
+            SceneManager.LoadScene("Ganaste!");
+        }
+
+            Debug.Log(collision.gameObject);
     } 
 }
