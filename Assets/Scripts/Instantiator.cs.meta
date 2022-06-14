@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7beaa4a3531cc644b8f773aded39fd3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ObjectToClone: {fileID: 2820232398809757279, guid: 659ce0f8357c9fe44902323132b553d8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
